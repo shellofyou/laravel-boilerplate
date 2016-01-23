@@ -1,7 +1,11 @@
 .DS_Store
 /.idea/
 /vendor/
-/cache/
+/.env
+/_ide_helper.php
+/composer.lock
+cache
 /node_modules/
+/storage/
 composer.phar
 
