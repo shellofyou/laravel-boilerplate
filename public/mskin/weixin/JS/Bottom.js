@@ -1,0 +1,1 @@
+Base.getScript("http://192.168.1.101:8080/mskin/weixin/JS/BottomFun.js?v=151221");

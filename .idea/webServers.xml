@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d94a96ba-d4e1-4ddb-aee0-56ea5d82ecd7" name="laravel-boilerplate" url="http://127.0.0.1">
+        <fileTransfer host="127.0.0.1" port="22" rootFolder="/alidata/www/default" accessType="SFTP" password="df9bdf98df99df9edf9fdf9cdf9ddf92" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
